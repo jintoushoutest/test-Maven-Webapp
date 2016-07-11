@@ -1,0 +1,21 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.zhaotong</groupId>
+  <artifactId>test</artifactId>
+  <packaging>war</packaging>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>test Maven Webapp</name>
+  <url>http://maven.apache.org</url>
+  <dependencies>
+    <dependency>
+    	<groupId>com.lazerycode.jmeter</groupId>
+    	<artifactId>jmeter-maven-plugin</artifactId>
+    	<version>1.8.2-SNAPSHOT</version>
+    	<type>pom.lastUpdated</type>
+    </dependency>
+  </dependencies>
+  <build>
+    <finalName>test</finalName>
+  </build>
+</project>

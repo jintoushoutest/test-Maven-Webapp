@@ -1,0 +1,17 @@
+DELEGATES_PREFERENCE=delegateValidatorList
+USER_BUILD_PREFERENCE=enabledBuildValidatorList
+USER_MANUAL_PREFERENCE=enabledManualValidatorList
+USER_PREFERENCE=overrideGlobalPreferencestruedisableAllValidationfalseversion1.2.501.me201309270159
+disabled=06target
+eclipse.preferences.version=1
+override=true
+suspend=false
+vals/com.genuitec.eclipse.editor.json.jsonvalidator/global=TF01
+vals/com.genuitec.eclipse.j2eedt.core.ddvalidator/global=TF01
+vals/org.eclipse.jst.jsf.ui.JSFAppConfigValidator/global=TF01
+vals/org.eclipse.jst.jsp.core.JSPContentValidator/global=TF01
+vals/org.eclipse.wst.dtd.core.dtdDTDValidator/global=TF01
+vals/org.eclipse.wst.html.core.HTMLValidator/global=TF01
+vals/org.eclipse.wst.jsdt.web.core.JsBatchValidator/global=TF01
+vals/org.eclipse.wst.jsdt.web.core.PureJSValidator/global=TF01
+vf.version=3
